@@ -1,0 +1,37 @@
+ <style>
+     *   {
+    box-sizing: border-box;
+}
+.decoration-one {
+    background-color:#76aff9;
+    
+    margin-left: auto;
+    margin-right: auto 
+    border:0;
+    border-radius: 24px;
+    padding: 9px;
+    font-weight: baseline;
+  
+}
+div{
+    margin-left: 250px;
+    margin-right: auto  
+}
+
+body{
+  background: #3a7fd9
+}
+h3{color:#175dcf;
+text-align: center;
+}
+
+}
+.decoration-one:hover {
+    background-color:#082ee7;
+
+}
+a {
+    text-decoration: none;
+    color:blue;
+}
+</style>  
